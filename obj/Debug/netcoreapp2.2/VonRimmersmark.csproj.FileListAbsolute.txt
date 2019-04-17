@@ -1,0 +1,11 @@
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/bin/Debug/netcoreapp2.2/VonRimmersmark.deps.json
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/bin/Debug/netcoreapp2.2/VonRimmersmark.runtimeconfig.json
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/bin/Debug/netcoreapp2.2/VonRimmersmark.runtimeconfig.dev.json
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/bin/Debug/netcoreapp2.2/VonRimmersmark.dll
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/bin/Debug/netcoreapp2.2/VonRimmersmark.pdb
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.csprojAssemblyReference.cache
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.csproj.CoreCompileInputs.cache
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.AssemblyInfoInputs.cache
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.AssemblyInfo.cs
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.dll
+/Users/apple/workspace/csharp/exercises/VonRimmersmark/obj/Debug/netcoreapp2.2/VonRimmersmark.pdb
