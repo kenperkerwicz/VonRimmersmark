@@ -7,7 +7,7 @@ public class Mummy : ICombustable
     public void Burn (string attack)
     {
         if (attack == "Fire") {
-            Console.WriteLine("You just burned the Mummy");
+            Console.WriteLine("the mummy has been lit aflame and burned");
         }
     }
 }

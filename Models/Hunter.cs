@@ -19,20 +19,18 @@ public string FirstName { get; set; }
 
 
 
-    public void SplashWater (Wight wight) {
-        wight.Douse("Splash");  // Kills with holy water
+    public void SplashWater (IDouseable dousableMonster) {
+       dousableMonster.Douse("Douse");  // Kills with holy water
     }
 
-    public void Ignite (Mummy mummy) {
-        mummy.Burn("Fire");  // Kills with fire
+    public void Ignite (ICombustable combustableMonster) {
+        combustableMonster.Burn("Fire");  // Kills with fire
     }
 
-    public void Ignite (Vampire vampire) {
-       vampire.Burn("Fire");  // Kills with fire
-    }
 
-    public void WieldSilver (Vampire vamp) {
-        vamp.Stab("Stab");   // Stabs with silver knife
+
+    public void WieldSilver (IStabable stabableMonster) {
+        stabableMonster.Stab("Stab");   // Stabs with silver knife
     }
 
     public override string ToString () {

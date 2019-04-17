@@ -11,15 +11,20 @@ namespace VonRimmersmark
 
             Mummy tuts = new Mummy();
 
+            Ghoul ghouly = new Ghoul();
 
             Vampire dracula = new Vampire();
 
-            VonRimmersmark.Ignite(tuts);
+            Wight witty = new Wight();
 
+            VonRimmersmark.Ignite(tuts);
 
              VonRimmersmark.WieldSilver(dracula);
 
-             VonRimmersmark.Ignite(dracula);
+             VonRimmersmark.SplashWater(ghouly);
+
+             VonRimmersmark.WieldSilver(witty);
+
 
 
 

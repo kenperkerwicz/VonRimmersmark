@@ -7,14 +7,14 @@ public class Wight: IStabable, IDouseable
     public void Stab (string attack)
     {
         if (attack == "Stab") {
-            Console.WriteLine("You just stabbed the Wight");
+            Console.WriteLine("wtf is a wight, well either you just stabbed one");
         }
     }
 
     public void Douse(string attack)
     {
         if (attack == "Douse") {
-            Console.WriteLine("You just doused the Wight");
+            Console.WriteLine("water + Wight = good for ppl");
         }
     }
 }
